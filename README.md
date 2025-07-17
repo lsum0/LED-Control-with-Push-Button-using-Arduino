@@ -91,10 +91,10 @@ void loop() {
 ##  Visual Aid 📸 :
 
 ### 🔷 TinkerCad Simulation  
-![TinkerCad Simulation](Tinckercard2.jpeg)
+![TinkerCad Simulation](inreallife.jpeg)
 
 ### 🔷 Real Project (Breadboard)  
-![Real Setup](inreallife.jpeg)
+![Real Setup](Tinckercard2.jpeg)
 
 ---
 
