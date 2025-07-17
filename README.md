@@ -98,7 +98,7 @@ void loop() {
 
 ---
 
-## 📝 Notes
+##  Notes : 
 
 - You can **change the LED ON duration** by adjusting the `delay()` value (in milliseconds).
 - Always use a **current-limiting resistor** with the LED to avoid damage.
@@ -106,16 +106,16 @@ void loop() {
 
 ---
 
-## 📘 Learning Outcomes
+##  Learning Outcomes :
 
-✅ Understanding digital input/output in Arduino  
-✅ Working with push buttons and LEDs  
-✅ Applying conditional logic and delays  
-✅ Building and simulating circuits using TinkerCad  
+ Understanding digital input/output in Arduino  
+ Working with push buttons and LEDs  
+ Applying conditional logic and delays  
+ Building and simulating circuits using TinkerCad  
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements : 
 
 - Add a **second LED** for advanced visual feedback
 - Use `millis()` instead of `delay()` for **non-blocking timing**
