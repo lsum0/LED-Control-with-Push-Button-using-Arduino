@@ -88,10 +88,10 @@ void loop() {
 ##  Visual Aid 📸 :
 
 ### 🔷 TinkerCad Simulation  
-*(TinckerCard.jpeg)*
+[]*(TinckerCard.jpeg)*
 
 ### 🔷 Real Hardware (Breadboard Setup)  
-*(Tickercard2.jpeg)*
+[]*(Tickercard2.jpeg)*
 
 ---
 
