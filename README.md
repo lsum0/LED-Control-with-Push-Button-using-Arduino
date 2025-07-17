@@ -91,7 +91,7 @@ void loop() {
 ![TinkerCad Simulation](./TinckerCard.jpeg)
 
 ### 🔷 Real Hardware (Breadboard Setup)  
-![Real Hardware](./Tickercard2.jpeg)
+![Real Hardware](./Tinckercard2.jpeg)
 
 
 ---
