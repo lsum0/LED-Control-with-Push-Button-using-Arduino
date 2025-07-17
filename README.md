@@ -70,3 +70,58 @@ void loop() {
     digitalWrite(ledPin, LOW);
   }
 }
+
+
+
+
+```
+----------
+
+
+##  Output Behavior :
+
+- **When the push button is pressed**:  
+  ➤ The LED turns **ON for 1 second**.
+
+- **When the button is released**:  
+  ➤ The LED turns **OFF immediately**.
+
+---
+
+##  Visual Aid 📸 :
+
+### 🔷 TinkerCad Simulation  
+![TinkerCad Simulation](./tinkercad_circuit.png)
+
+### 🔷 Real Project (Breadboard)  
+![Real Setup](./real_project.jpg)
+
+---
+
+## 📝 Notes
+
+- You can **change the LED ON duration** by adjusting the `delay()` value (in milliseconds).
+- Always use a **current-limiting resistor** with the LED to avoid damage.
+- **Debounce logic** is recommended in real-life hardware to prevent false triggers from mechanical noise.
+
+---
+
+## 📘 Learning Outcomes
+
+✅ Understanding digital input/output in Arduino  
+✅ Working with push buttons and LEDs  
+✅ Applying conditional logic and delays  
+✅ Building and simulating circuits using TinkerCad  
+
+---
+
+## 🚀 Future Improvements
+
+- Add a **second LED** for advanced visual feedback
+- Use `millis()` instead of `delay()` for **non-blocking timing**
+- Implement a **toggle function**:  
+  ➤ Press once = LED ON  
+  ➤ Press again = LED OFF
+- Add a **buzzer or sound alert** output for interaction feedback
+
+---
