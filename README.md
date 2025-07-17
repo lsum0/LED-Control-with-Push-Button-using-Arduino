@@ -85,13 +85,14 @@ void loop() {
 
 ---
 
-##  Visual Aid 📸 :
+## 📸 Visual Aid :
 
 ### 🔷 TinkerCad Simulation  
-[]*(TinckerCard.jpeg)*
+![TinkerCad Simulation](./TinckerCard.jpeg)
 
 ### 🔷 Real Hardware (Breadboard Setup)  
-[]*(Tickercard2.jpeg)*
+![Real Hardware](./Tickercard2.jpeg)
+
 
 ---
 
